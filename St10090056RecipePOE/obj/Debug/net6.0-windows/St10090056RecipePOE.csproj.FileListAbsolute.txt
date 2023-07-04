@@ -1,0 +1,6 @@
+C:\Users\nowis\source\repos\St10090056RecipePOE\St10090056RecipePOE\obj\Debug\net6.0-windows\St10090056RecipePOE.csproj.AssemblyReference.cache
+C:\Users\nowis\source\repos\St10090056RecipePOE\St10090056RecipePOE\obj\Debug\net6.0-windows\DeleteRecipeWindow.g.cs
+C:\Users\nowis\source\repos\St10090056RecipePOE\St10090056RecipePOE\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\nowis\source\repos\St10090056RecipePOE\St10090056RecipePOE\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\nowis\source\repos\St10090056RecipePOE\St10090056RecipePOE\obj\Debug\net6.0-windows\St10090056RecipePOE_MarkupCompile.cache
+C:\Users\nowis\source\repos\St10090056RecipePOE\St10090056RecipePOE\obj\Debug\net6.0-windows\St10090056RecipePOE_MarkupCompile.lref
